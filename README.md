@@ -1,4 +1,4 @@
-# [Demo](https://yegorkochetkov.github.io/calendar-task/)
+# [Demo](https://yegorkochetkov.github.io/calendar-angular-task/)
 
 ## Task
 
