@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcalendar=self.webpackChunkcalendar||[]).push([[592],{2963:(s,c,t)=>{t.d(c,{f:()=>e});var n=t(1135),r=t(4650);class e{constructor(){this.date$=new n.X(null)}getDate(){return this.date$.getValue()}updateDate(a){this.date$.next(a)}}e.\u0275fac=function(a){return new(a||e)},e.\u0275prov=r.Yz7({token:e,factory:e.\u0275fac,providedIn:"root"})}}]);
